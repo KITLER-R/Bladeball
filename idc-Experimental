@@ -1,7 +1,3 @@
---//https://discord.com/invite/jErmFfMfQR voned ontop
-
-print("Voned ontop of the world")
-
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/REDzHUB/LibraryV2/main/redzLib")))()
 MakeWindow({
   Hub = {
